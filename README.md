@@ -25,3 +25,4 @@ Delivered a dynamic and insightful dashboard to explore nationwide voting trends
 Let me know if you want a version in bullet points or shorter for LinkedIn or resume.
 
 Screenshot of the Project
+![Dashboard preview](https://github.com/Lokesh-kamte/India-General-Election-2024-Analysis/blob/main/Snapshot%20of%20General%20Election%202024%20Dashboard.png)
